@@ -2,7 +2,8 @@
 
 在日常上网中，我们总会遇到各种小需求：临时要转换个文件格式、想找个无广告的干净浏览器……今天给大家推荐两个亲测好用的免费工具，它们来自“91”系列，一个是在线服务百宝箱，一个是纯净浏览器，搭配使用体验更佳！
 
----
+# 91网页版：[https://www.91webfree.cloud](https://www.91webfree.cloud)
+# 91网页浏览器：[https://www.91browserfree.cloud](https://www.91browserfree.cloud)
 
 #### 🌟 第一站：在线服务百宝箱 → [**91网页版免费91**](https://www.91webfree.cloud)
 
